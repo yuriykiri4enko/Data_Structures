@@ -11,6 +11,7 @@ class Queue:
         return len(self.items)
 
 
+
 q = Queue()
 q.isEmpty()
 
