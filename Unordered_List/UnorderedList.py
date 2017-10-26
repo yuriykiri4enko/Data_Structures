@@ -49,6 +49,7 @@ class UnorderdList:
         else:
             previous.setNext(current.getNext())
 
+
 if __name__ == '__main__':
     mylist = UnorderdList()
 
